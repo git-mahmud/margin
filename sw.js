@@ -1,5 +1,5 @@
 // Bump this version number whenever you want every device to drop its old cache.
-const CACHE = 'margin-v2';
+const CACHE = 'margin-v3';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
