@@ -2,7 +2,7 @@
 
 A quiet place to write, plan and keep track of things. Margin is a Notion-style note-taking app that runs entirely in your browser. It has no account, no server and no AI, and your notes stay on your device.
 
-**Live app:** `https://YOUR-USERNAME.github.io/margin/`
+**Live app:** `https://git-mahmud.github.io/margin/`
 
 ## Features
 
