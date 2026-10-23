@@ -96,7 +96,3 @@ Current versions of Chrome, Edge, Safari and Firefox. Installing as an app is su
 - Table and database views
 - Tags
 - Page width and font size settings
-
-## License
-
-Add a `LICENSE` file to choose the terms you want. MIT is a common choice for personal projects.
